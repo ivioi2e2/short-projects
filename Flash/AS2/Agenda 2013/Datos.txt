@@ -1,0 +1,17 @@
+x&cm8d23=Practicas AIC&
+x&cm8d25=Practicas ETC&
+x&cm9d4=Practicas CPA&
+x&cm9d9=Practicas Sin&
+x&cm9d10=Practicas Sin&
+x&cm9d11=Practicas BDA&
+x&cm9d15=Practicas REDES&
+x&cm9d18=Practicas ISW&
+x&cm10d11=1 Parcial CPA (30%)&
+x&cm11d2=1 Parcial TSR&
+x&cm11d9=1 Parcial ETC&
+x&cm0d13=2 Parcial CPA (30%)&
+x&cm0d14=2 Parcial TSR&
+x&cm0d24=Final TSR (Recuperacion)&
+x&cm0d27=Final CPA (Recuperacion)&
+x&cm2d10=2 Parcial ETC&
+x&cm4d19=3 Parcial ETC&
